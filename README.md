@@ -6,6 +6,11 @@
 <div>
 IL han.log <a href="https://velog.io/@rladlfgks422"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </div>
+<div>
+IL han.notion <a href="https://www.notion.so/41e56cdcebab457a9047b3aa6a787eac"><img src="https://img.shields.io/badge/Notion-FFCA28?style=flat-square&logo=notion&logoColor=white"/></a>
+</div>           
+                   
+                   
 
 
 
