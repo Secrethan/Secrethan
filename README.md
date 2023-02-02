@@ -13,6 +13,7 @@ IL han.notion <a href="https://www.notion.so/41e56cdcebab457a9047b3aa6a787eac"><
 </div>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secrethan&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secrethan&layout=compact)](https://github.com/Secrethan/github-readme-stats)
                 
                    
 
