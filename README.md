@@ -1,6 +1,7 @@
 <div align = center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ii&nbsp;Han&nbsp;Github&fontSize=90" />
-
+</div>
+<div align = center>
   <span><b><h3>📚Tech Stack📚</h3></b></span>
   <span><b><h4>BackEnd</h4></b></span>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -12,6 +13,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"> 
 <br>
+<span><b><h4>CI CD</h4></b></span>
+<img src="https://img.shields.io/badge/GitAction-2088FF?style=flat&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white">
 <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white">
