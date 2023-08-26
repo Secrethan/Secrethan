@@ -1,8 +1,8 @@
 <div align = center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ii&nbsp;Han&nbsp;Github&fontSize=90" />
 
-  <span><b><h3>📚Tech Stack📚</h3></b></span><br>
-  <span><b><h4>Platforms & Languages</h4></b></span><br>
+  <span><b><h3>📚Tech Stack📚</h3></b></span>
+  <span><b><h4>Platforms & Languages</h4></b></span>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -26,4 +26,11 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
+</div>
+</div><br>
+<div align = center>
+<span><h3>Blog</h3></span>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=rladlfgks422)](https://velog.io/@rladlfgks422)
+
 </div>
