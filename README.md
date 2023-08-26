@@ -1,2 +1,2 @@
 
-[쓰고싶은 내용]
+📝 Recent Blog Posts
