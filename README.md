@@ -1,24 +1,34 @@
+<div align = center>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ii&nbsp;Han&nbsp;Github&fontSize=90" />
 
+  <span><b><h3>📚Tech Stack📚</h3></b></span><br>
+  <span><b><h4>Platforms & Languages</h4></b></span><br>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> 
+<br>
+<img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"> 
+<br>
+<img src="https://img.shields.io/badge/Amazon-232F3E?style=flat&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white">
+<img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white">
+<br>
 
-### 🐣Il Han👨‍💻 
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSecrethan&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<div>
-IL han.log <a href="https://velog.io/@rladlfgks422"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<div align =center> 
+ <span><b><h4>Tools</h4></b></span>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
 </div>
-<div>
-IL han.notion <a href="https://www.notion.so/b3e8a550f815418eb09353cb5419d721"><img src="https://img.shields.io/badge/Notion-FFCA28?style=flat-square&logo=notion&logoColor=white"/></a>
 </div>
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secrethan&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secrethan&layout=compact)](https://github.com/Secrethan/github-readme-stats)
-                
-                   
-
-
-
+<h2>Blog</h2>
 <!--
 **Secrethan/Secrethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
