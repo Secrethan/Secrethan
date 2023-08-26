@@ -2,18 +2,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ii&nbsp;Han&nbsp;Github&fontSize=90" />
 
   <span><b><h3>📚Tech Stack📚</h3></b></span>
-  <span><b><h4>Platforms & Languages</h4></b></span>
+  <span><b><h4>BackEnd</h4></b></span>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"> 
 <br>
-<img src="https://img.shields.io/badge/Amazon-232F3E?style=flat&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white">
 <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white">
